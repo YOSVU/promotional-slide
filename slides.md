@@ -15,7 +15,8 @@ css: unocss
 title: Welcome to Slidev
 ---
 
-# Welcome to Slidev
+# 欢迎来到 青开大
+## Welcome to YOSVU
 
 
 Presentation slides for developers
@@ -42,7 +43,7 @@ The last comment block of each slide will be treated as slide notes. It will be 
 
 ---
 
-# What is Slidev?
+# 什么是青开大?
 
 Slidev is a slides maker and presenter designed for developers, consist of the following features
 
